@@ -44,11 +44,23 @@
         </div>
     </main>
 
-    <footer>
-        <div class="container">
-            <p>© 2024 TranscripcionesQ1.com. Todos los derechos reservados.</p>
-        </div>
-    </footer>
+<footer>
+    <div class="container">
+        <nav class="footer-nav">
+            <a href="index.html">Inicio</a> |
+            <a href="acerca-de.html">Acerca de Nosotros</a> |
+            <a href="contacto.html">Contacto</a> |
+            <a href="terminos-uso.html">Términos de Uso</a> |
+            <a href="politica-privacidad.html">Política de Privacidad</a>
+        </nav>
+        <p>© <span id="currentYear">2024</span> TranscripcionesQ1.com. Todos los derechos reservados.</p>
+    </div>
+</footer>
+
+<script>
+    // Script simple para mostrar el año actual en el footer
+    document.getElementById('currentYear').textContent = new Date().getFullYear();
+</script>
 
     <script src="js/transcript-script.js"></script>
 </body>

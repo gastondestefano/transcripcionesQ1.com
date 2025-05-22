@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transcripciones Q1 - Conferencias S&P 500</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Transcripciones<span class="highlight">Q1</span>.com</h1>
+            <p>Consulta transcripciones de resultados trimestrales del S&P 500.</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- Espacio para AdSense - Header Banner -->
+        <div class="ad-space ad-banner-top">
+            <!-- Google AdSense code here -->
+            <p>(Espacio Publicitario Superior)</p>
+        </div>
+
+        <section id="search-section">
+            <h2>Buscar Empresa</h2>
+            <input type="text" id="search-input" placeholder="Buscar por nombre o ticker (ej: AAPL, Apple)">
+            <div id="search-results" class="search-results-container">
+                <!-- Los resultados de la búsqueda se mostrarán aquí -->
+            </div>
+        </section>
+
+        <nav id="breadcrumbs">
+            <!-- Las migas de pan se generarán aquí -->
+        </nav>
+
+        <section id="selection-section" style="display: none;">
+            <h3 id="selected-company-name"></h3>
+            <div class="selectors-grid">
+                <div>
+                    <label for="year-select">Año:</label>
+                    <select id="year-select" disabled>
+                        <option value="">Seleccione un año</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="quarter-select">Trimestre:</label>
+                    <select id="quarter-select" disabled>
+                        <option value="">Seleccione un trimestre</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="type-select">Tipo:</label>
+                    <select id="type-select" disabled>
+                        <option value="">Seleccione un tipo</option>
+                    </select>
+                </div>
+            </div>
+            <button id="view-transcript-btn" class="cta-button" disabled>Ver Transcripción</button>
+            <div id="loading-indicator" style="display: none;">Cargando...</div>
+        </section>
+
+        <!-- Espacio para AdSense - In-article -->
+        <div class="ad-space ad-in-article">
+             <!-- Google AdSense code here -->
+            <p>(Espacio Publicitario Central)</p>
+        </div>
+
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>© 2024 TranscripcionesQ1.com. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="js/index-script.js"></script>
+</body>
+</html>

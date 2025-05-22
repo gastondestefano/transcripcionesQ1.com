@@ -1,0 +1,16 @@
+node_modules
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de IDEs
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos generados localmente que no necesitas en el repo
+# (si tienes scripts que generan archivos de salida que no son parte del sitio en sí)
+# metadata_output.js # Si solo lo usas para copiar y pegar
+
+# Si llegaras a usar node_modules para herramientas de build en el futuro
+# node_modules/

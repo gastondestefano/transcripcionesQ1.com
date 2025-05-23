@@ -1,12 +1,263 @@
-# Transcripción Completa: AMZN - Q1 2025
+# Amazon.com, Inc., Llamada de Resultados del T1 2025, 01 de mayo de 2025
 
-**Fecha:** [Insertar Fecha]
+**01/05/2025**
 
-## Participantes:
-* [Nombre]
+**Operador**
 
----
+Gracias por esperar. Buenos días a todos y bienvenidos a la Teleconferencia de Resultados Financieros del Primer Trimestre de 2025 de Amazon.com. [Instrucciones del Operador] La llamada de hoy está siendo grabada.
 
-## Contenido:
+Y para los comentarios de apertura, pasaré la llamada al Vicepresidente de Relaciones con Inversores, el Sr. Dave Fildes. Gracias, señor. Puede proceder.
 
-[Aquí va el contenido de la completa...]
+**Dave Fildes**
+
+Hola y bienvenidos a nuestra Llamada de Conferencia sobre los Resultados Financieros del T1 2025. Hoy nos acompañan para responder a sus preguntas Andy Jassy, nuestro CEO; y Brian Olsavsky, nuestro CFO. Mientras escuchan la conferencia telefónica de hoy, les recomendamos que tengan a mano nuestro comunicado de prensa, que incluye nuestros resultados financieros, así como métricas y comentarios sobre el trimestre.
+
+Tengan en cuenta que, a menos que se indique lo contrario, todas las comparaciones en esta llamada serán con respecto a nuestros resultados del período comparable de 2024. Nuestros comentarios y respuestas a sus preguntas reflejan las opiniones de la dirección a fecha de hoy, 1 de mayo de 2025, únicamente e incluirán declaraciones prospectivas. Los resultados reales pueden diferir materialmente. Información adicional sobre factores que podrían afectar potencialmente nuestros resultados financieros se incluye en el comunicado de prensa de hoy y en nuestras presentaciones ante la SEC, incluido nuestro informe anual más reciente en el Formulario 10-K y presentaciones posteriores.
+
+Durante esta llamada, podemos discutir ciertas medidas financieras no GAAP. En nuestro comunicado de prensa, diapositivas que acompañan a esta transmisión web y nuestras presentaciones ante la SEC, cada una de las cuales está publicada en nuestro sitio web de RI, encontrarán divulgaciones adicionales sobre estas medidas no GAAP, incluidas las conciliaciones de estas medidas con las medidas GAAP comparables. Nuestra guía incorpora las tendencias de pedidos que hemos visto hasta la fecha y lo que creemos hoy que son supuestos apropiados.
+
+Nuestros resultados son inherentemente impredecibles y pueden verse afectados materialmente por muchos factores, incluidas las fluctuaciones en los tipos de cambio, cambios en las condiciones económicas y geopolíticas globales, políticas arancelarias y comerciales, y la demanda y el gasto de los clientes, incluido el impacto de los temores recesivos, la inflación, las tasas de interés, las limitaciones regionales del mercado laboral, eventos mundiales, la tasa de crecimiento de Internet, el comercio en línea, los servicios en la nube y las tecnologías nuevas y emergentes y los diversos factores detallados en nuestras presentaciones ante la SEC.
+
+Nuestra guía asume, entre otras cosas, que no concluimos ninguna adquisición adicional de negocios, reestructuraciones o acuerdos legales. No es posible predecir con precisión la demanda de nuestros bienes y servicios y, por lo tanto, nuestros resultados reales difieren materialmente de nuestra guía.
+
+Y ahora pasaré la llamada a Andy.
+
+**Andrew Jassy**
+
+Gracias, Dave. Hoy estamos reportando $155.7 mil millones en ingresos, un aumento del 10% interanual, excluyendo el impacto de las tasas de cambio. El ingreso operativo fue de $18.4 mil millones, un aumento del 20% interanual. Y el flujo de caja libre de los últimos 12 meses fue de $25.9 mil millones.
+
+Estamos satisfechos con nuestro continuo progreso comercial, pero más importante aún, con nuestro ritmo de innovación y la mejora adicional en nuestras experiencias de cliente.
+
+En nuestro negocio de tiendas, una vez más vimos una fuerte resonancia del consumidor en nuestro continuo trabajo en selección, valor y velocidad de envío. Nuestra amplia selección ofrece a los clientes opciones en sus procesos de compra. Damos la bienvenida a marcas conocidas como Oura Rings, Michael Kors y The Ordinary, así como a una nueva experiencia de compra con Saks que ofrece un surtido refinado de lujo de artículos de moda y belleza de marcas como Dolce & Gabbana, Balmain, Erdem, Giambattista Valli y Jason Wu Collection. Como siempre, estamos trabajando para mantener los precios bajos. Y siendo este un momento incierto para los consumidores, es aún más importante de lo que normalmente es.
+
+En el T1, realizamos eventos de ofertas en todo el mundo para ayudar a los clientes a ahorrar más de $500 millones en la Gran Venta de Primavera en EE. UU. y Canadá, los Días de Ofertas de Primavera en Europa, y eventos de Venta de Ramadán/Eid en Egipto, Arabia Saudita, Turquía y los EAU. Los miembros Prime tendrán más oportunidades de ahorrar durante todo el año, incluido nuestro 11º evento Prime Day en julio.
+
+Durante los últimos años, hemos logrado un progreso significativo en hacer nuestra red de cumplimiento más eficiente y rentable. Hemos compartido muchas veces que un punto de inflexión importante fue la regionalización de nuestra red de cumplimiento nacional en centros regionales. Al almacenar artículos más cerca de donde viven los clientes, podemos entregar más pedidos más rápido, a menudo en menos paquetes y a costos de entrega más bajos. El siguiente desafío fue llevar la mayor cantidad posible de artículos a estos nodos regionales.
+
+Nuestra red de entrada, que es cómo llevamos los artículos a cada centro de cumplimiento, no había sido diseñada para aprovechar esta nueva estructura de regionalización. Así que la rediseñamos y acabamos de implementar una nueva arquitectura de entrada que amplía la proporción de productos que podemos colocar en cada centro de cumplimiento, mejorando las velocidades de entrega y reduciendo nuestro costo de servicio.
+
+En el primer trimestre, una vez más establecimos nuevos récords de velocidad de entrega con nuestra entrega más rápida para miembros Prime en todo el mundo. Y entregamos más artículos el mismo día o al día siguiente en el T1 que en cualquier otro trimestre de nuestra historia.
+
+De cara al futuro, continuaremos refinando nuestra red de entrada recientemente rediseñada, construiremos nuestros sitios de entrega el mismo día y agregaremos robótica y automatización adicionales en nuestros edificios. También nos verán expandir el número de estaciones de entrega que tenemos en áreas rurales de EE. UU., para que podamos llevar artículos a personas que viven en áreas menos densamente pobladas mucho más rápido.
+
+Pensé en compartir algunas reflexiones sobre la perspectiva de aranceles elevados en nuestro negocio de tiendas. Obviamente, ninguno de nosotros sabe exactamente dónde se establecerán los aranceles o cuándo. Todavía no hemos visto ninguna atenuación de la demanda. Hasta cierto punto, hemos visto algunas compras elevadas en ciertas categorías que pueden indicar un acaparamiento en previsión de cualquier impacto arancelario potencial.
+
+Tampoco hemos visto que el precio de venta promedio de los artículos minoristas suba apreciablemente todavía. Parte de esto refleja algunas compras anticipadas que hicimos en nuestra venta directa (first-party), y parte de esto refleja algunas entradas anticipadas que nuestros vendedores externos (third-party) han hecho, pero una buena parte de esto es que la mayoría de los vendedores simplemente aún no han cambiado los precios. Nuevamente, esto podría cambiar dependiendo de dónde se establezcan los aranceles.
+
+Amazon no es excepcionalmente susceptible a los aranceles. En lo que respecta a China, los minoristas que no compran directamente de China suelen comprar a empresas que a su vez compran de China, aumentando el precio de estos artículos, renombrándolos y vendiéndolos a los consumidores estadounidenses. Estos minoristas están comprando el producto a un precio más alto que los vendedores chinos que venden directamente a los consumidores estadounidenses en nuestro marketplace. Por lo tanto, el arancel total será más alto para estos minoristas que para los vendedores directos de China.
+
+También a veces es fácil olvidar lo que vende Amazon. No vendemos principalmente artículos de alto precio de venta promedio, aunque ciertamente vendemos muchos. En el primer trimestre, nuestros productos esenciales de uso diario crecieron más del doble de rápido que el resto de nuestro negocio y representaron 1 de cada 3 unidades vendidas en EE. UU. en Amazon. Incluso si se excluye Whole Foods Market y Amazon Fresh, Amazon es uno de los mayores supermercados de EE. UU. con más de $100 mil millones en ventas brutas el año pasado. La gente está comprando muchos de sus productos esenciales de uso diario en Amazon.
+
+También tenemos una selección extremadamente grande, cientos de millones de SKUs únicos, lo que significa que a menudo podemos sortear condiciones desafiantes mejor que otros. Cuando hay períodos de discontinuidad, surgen tendencias de productos inesperadas y sustanciales. Pensemos en la pandemia, cuando artículos como mascarillas y desinfectante de manos se convirtieron en grandes vendedores. Cuando tienes la selección más amplia como nosotros y más de 2 millones de vendedores globales como nosotros, estás mejor posicionado para ayudar a los clientes a encontrar cualquier artículo que les importe a precios más bajos que en otros lugares.
+
+Finalmente, cuando hay entornos inciertos, los clientes tienden a elegir el proveedor en el que más confían. Dada nuestra selección realmente amplia, precios bajos y entrega rápida, hemos salido de estas eras inciertas con una mayor cuota de mercado relativa al segmento que cuando empezamos y mejor preparados para el futuro. Soy optimista de que esto podría suceder de nuevo.
+
+Pasando a unas palabras sobre Amazon Ads. Estamos trabajando arduamente para ser el mejor lugar para que las marcas de todos los tamaños hagan crecer su negocio. Estamos satisfechos con el fuerte crecimiento sobre una base muy grande, generando $13.9 mil millones de ingresos en el trimestre y creciendo un 19% interanual. Estamos viendo fortaleza en nuestra amplia cartera de ofertas publicitarias de embudo completo que ayudan a los anunciantes a llegar a una audiencia promedio con publicidad de más de 275 millones en EE. UU. Esto incluye nuestros esfuerzos en la parte superior del embudo para impulsar el conocimiento de la marca, las ofertas en la parte inferior del embudo donde medimos los resultados en el punto de conversión.
+
+Amazon Ad proporciona a las marcas herramientas para llegar a audiencias específicas en nuestras propias propiedades de entretenimiento como Prime Video, Twitch e IMDB; en deportes en vivo como NFL, NBA y NASCAR; contenido de audio como Amazon Music y Wondery; y, por supuesto, en nuestra tienda, así como en muchos otros sitios externos como Pinterest y BuzzFeed.
+
+Todas nuestras capacidades de audiencia y medición funcionan para los anuncios que entregamos a través de editores externos premium a través de Amazon DSP y nuestras salas limpias seguras brindan a los anunciantes la capacidad de analizar datos, producir métricas de marketing básicas y comprender cómo funciona su marketing en varios canales. Seguimos viendo muchas oportunidades para expandir aún más nuestras capacidades de embudo completo para las marcas.
+
+AWS creció un 17% interanual en el T1 y ahora se sitúa en una tasa de ejecución anualizada de ingresos de $117 mil millones. Continuamos ayudando a organizaciones de todos los tamaños a acelerar su traslado a la nube, ayudando a modernizar su infraestructura a costos más bajos y acelerar la innovación. Firmamos nuevos acuerdos de AWS con empresas, incluidas Adobe, Uber, Nasdaq, Ericsson, Fujitsu, Cargill, Mitsubishi Electric Corporation, General Dynamics Information Technology, GE Vernova, Booz Allen Hamilton, NextEra Energy; Publicis Sapient, Elastic, Netsmart y muchas otras. Es útil recordar que más del 85% del gasto global en TI todavía está en las propias instalaciones, por lo que aún no está en la nube. Me parece bastante sencillo que esta ecuación se invertirá en los próximos 10 a 20 años.
+
+Antes de esta generación de IA, pensábamos que AWS tenía la oportunidad de ser finalmente un negocio con una tasa de ejecución de ingresos de varios cientos de miles de millones de dólares. Ahora creemos que podría ser aún más grande. Si crees que tu misión es hacer la vida de los clientes más fácil y mejor cada día, y crees que cada experiencia del cliente se reinventará con IA, vas a invertir muy agresivamente en IA, y eso es lo que estamos haciendo. Puedes verlo en las más de 1,000 aplicaciones de IA que estamos construyendo en Amazon. Puedes verlo con nuestra próxima generación de Alexa, llamada Alexa+. Puedes verlo en cómo estamos usando la IA en nuestra red de cumplimiento, robótica, compras, Prime Video y experiencias publicitarias. Y puedes verlo en los bloques de construcción que AWS está construyendo para constructores externos e internos para que construyan sus propias soluciones de IA. No estamos jugando aquí. Estamos intencionalmente dando a los constructores las capacidades más amplias posibles en cada nivel de la pila de IA de manera rentable para usar la IA expansivamente en sus negocios.
+
+En la capa inferior para aquellos que construyen modelos, nuestro nuevo chip de IA personalizado Trainium2 está comenzando a instalarse en capacidad en mayores cantidades con un atractivo y una demanda significativos. Si bien ofrecemos a los clientes la capacidad de hacer IA en múltiples proveedores de chips y lo haremos durante todo el tiempo que pueda prever, los clientes que hacen IA a cualquier escala significativa se dan cuenta de que puede volverse costoso rápidamente. Así que el rendimiento de precio entre un 30% y un 40% mejor que ofrece Trainium2 en comparación con otras instancias basadas en GPU es convincente.
+
+Para que la IA sea tan exitosa como creemos que puede ser, el precio de la inferencia debe bajar significativamente. Consideramos que esto es parte de nuestra misión y responsabilidad para ayudar a que así sea. En la capa intermedia, para aquellos que desean aprovechar los modelos de frontera para crear aplicaciones de IA generativa, Amazon Bedrock es nuestro servicio totalmente gestionado que nos ofrece una selección de modelos fundacionales de alto rendimiento con el conjunto de características más convincente que facilita la creación de aplicaciones de IA generativa de alta calidad.
+
+Continuamos iterando rápidamente en Bedrock, agregando el modelo híbrido de leasing Claude 3.7 Sonnet de Anthropic, su modelo más inteligente hasta la fecha, y la familia de modelos Llama 4 de Meta. También fuimos el primer proveedor de servicios en la nube en hacer que DeepSeek R1, Pixtral Large de Mistral AI, estuvieran generalmente disponibles como un modelo totalmente gestionado. Y, por supuesto, ofrecemos nuestros propios modelos fundacionales de última generación Amazon Nova en Bedrock, con el último modelo premier lanzado ayer. Ofrecen inteligencia de frontera y un rendimiento de precios líder en la industria, y ya tenemos miles de clientes usándolos, incluidos Slack, Siemens, Sumo Logic, Coinbase, FanDuel, Glean y Blue Origin.
+
+Hace unas semanas, lanzamos Amazon Nova Sonic, un nuevo modelo fundacional de voz a voz que permite a los desarrolladores crear aplicaciones de IA basadas en voz que son altamente precisas, expresivas y de tipo humano. Nova Sonic tiene tasas de error de palabras más bajas y tasas de ganancia más altas que otros modelos comparables para interacciones de velocidad.
+
+El mundo de la tecnología también está en ebullición sobre el potencial de los agentes. Hasta la fecha, prácticamente todos los casos de uso agénticos han sido del tipo pregunta-respuesta. Nuestra intención es que los agentes realicen tareas complejas de múltiples pasos de amplio alcance, como organizar un viaje o configurar la iluminación, la temperatura y el ambiente musical en su casa para los invitados a cenar o manejar tareas complejas de TI para aumentar la productividad empresarial. No ha habido agentes orientados a la acción como este hasta Alexa+. Pero la tecnología para construir estos agentes sigue siendo bastante primitiva, inexacta y requiere supervisión humana constante.
+
+Acabamos de lanzar una vista previa de investigación de Amazon Nova Act, un nuevo modelo de IA entrenado para realizar acciones dentro de un navegador web. Permite a los desarrolladores desglosar flujos de trabajo complejos en comandos atómicos confiables como buscar o pagar o responder preguntas sobre la pantalla. También les permite agregar instrucciones más detalladas a estos comandos cuando sea necesario, como "no aceptar la venta adicional de seguros". Nova Act tiene como objetivo mover la precisión actual del estado del arte de las acciones agénticas de múltiples pasos del 30% al 60% al 90% o más con el conjunto adecuado de bloques de construcción para construir estos agentes orientados a la acción.
+
+En la parte superior de la pila están las aplicaciones. Este último trimestre, Amazon Q, el asistente impulsado por IA generativa más capaz para acelerar el desarrollo de software y aprovechar sus propios datos, lanzó una nueva experiencia de codificación de agente ultrarrápida dentro de la interfaz de línea de comandos que puede ejecutar flujos de trabajo complejos de forma autónoma. A los clientes les encanta esto. También hicimos generalmente disponible GitLab Duo con Amazon Q, lo que permite a los agentes de IA ayudar en tareas de múltiples pasos como el desarrollo de nuevas funciones, actualizaciones basadas en código para Java 8 y 11, al tiempo que ofrece revisión de código y pruebas unitarias, todo dentro de la misma plataforma familiar de GitLab.
+
+Nuestro negocio de IA tiene una tasa de ejecución anual de ingresos de miles de millones de dólares, continúa creciendo en porcentajes interanuales de tres dígitos y todavía está en sus primeras etapas. Si bien hay buenas razones para el gran optimismo sobre la IA, concluyo mis comentarios sobre AWS con un recordatorio de que todavía hay mucha infraestructura en las propias instalaciones que aún no se ha trasladado a la nube. La modernización de la infraestructura es mucho menos sexy para hablar que la IA, pero es fundamental para las capacidades tecnológicas y de invención de cualquier empresa, la productividad de los desarrolladores, la velocidad y la estructura de costos. Y para que las empresas alcancen todo el potencial de la IA, necesitarán su infraestructura y datos en la nube.
+
+Quiero mencionar brevemente algunos otros elementos. Como he mencionado un par de veces, en el T1 presentamos Alexa+, nuestra asistente personal Alexa de próxima generación, que es significativamente más inteligente y más capaz que nuestra versión anterior, puede responder virtualmente cualquier pregunta y tomar acciones, y es gratuita con Prime o está disponible para clientes no Prime por $19.99 al mes. Estamos comenzando a implementarlo en EE. UU. y nos expandiremos a otros países más adelante este año. A la gente le está gustando mucho Alexa+ hasta ahora.
+
+Estamos emocionados y honrados de ser parte de la empresa conjunta que creará la próxima generación de la estimada franquicia cinematográfica de James Bond. Recientemente nombramos a los aclamados productores, Amy Pascal y David Heyman, para producir la próxima película de James Bond.
+
+Además, hace solo un par de días, el Proyecto Kuiper alcanzó un hito significativo al lanzar nuestros primeros satélites en órbita, con más lanzamientos próximamente, y esperamos comenzar a ofrecer servicio a los clientes más adelante este año. Estoy orgulloso de lo que nuestros equipos de todo el mundo han entregado. Estamos entusiasmados con lo que estamos inventando y en lo que estamos trabajando mientras hablamos.
+
+Y con eso, le pasaré la palabra a Brian para una actualización financiera.
+
+**Brian Olsavsky**
+
+Gracias, Andy. Comenzaré con nuestros resultados financieros de primera línea. Los ingresos mundiales fueron de $155.7 mil millones, un aumento del 10% interanual, excluyendo el impacto del tipo de cambio. Esto equivale a un viento en contra de $1.4 mil millones por el tipo de cambio interanual en el trimestre. El ingreso operativo mundial fue de $18.4 mil millones, aproximadamente $400 millones por encima del extremo superior de nuestro rango de orientación. Estos resultados incluyen cargos únicos que afectaron el ingreso operativo de América del Norte e internacional que discutiré en un momento.
+
+Primero, comencemos con los resultados de ventas netas para estos segmentos. En el segmento de América del Norte, los ingresos del primer trimestre fueron de $92.9 mil millones, un aumento del 8% interanual. Nuestros ingresos del segmento Internacional fueron de $33.5 mil millones, también un aumento del 8% interanual, excluyendo el impacto del tipo de cambio. Las unidades pagadas a nivel mundial crecieron un 8% interanual.
+
+Nuestra prioridad es proporcionar valor a nuestros clientes en todos nuestros negocios. En el primer trimestre, realizamos múltiples eventos de ofertas en todo el mundo, lo que impulsó una fuerte participación de los clientes. Vimos una fortaleza generalizada en nuestros principales indicadores de negocio, incluidas velocidades de entrega récord para los miembros Prime, gracias a una mejor colocación del inventario. Nuestra vasta selección ofrece a los clientes opciones en varios puntos de precio, particularmente en categorías como alimentos, que incluye productos esenciales de uso diario. Estos son los artículos que la gente compra con más frecuencia.
+
+Nos asociamos con millones de vendedores independientes de todo el mundo. Estos socios vendedores son importantes contribuyentes a nuestra amplia selección. Y el mix de unidades vendidas por terceros a nivel mundial fue del 61% en el T1, consistente con el T1 del año pasado.
+
+Pasando a la rentabilidad. El ingreso operativo del segmento de América del Norte fue de $5.8 mil millones, y el ingreso operativo del segmento Internacional fue de $1 mil millones con márgenes operativos del 6.3% en América del Norte y del 3% a nivel internacional.
+
+Como mencioné anteriormente, durante el trimestre, registramos cargos únicos relacionados con algunas devoluciones históricas de clientes que aún no se han resuelto y algunos costos para recibir inventario que se adelantó al T1 antes de los aranceles anticipados. Sin estos cargos, los márgenes operativos de América del Norte e Internacional habrían sido aproximadamente 90 puntos básicos y 70 puntos básicos más altos, o márgenes operativos del 7.2% para América del Norte y del 3.7% para Internacional. Estamos satisfechos con la forma en que nuestros equipos continúan ejecutando y entregando a los clientes.
+
+En el T1, nuestra red de entrada recientemente rediseñada impulsó la productividad en nuestra red de cumplimiento y transporte, lo que llevó a una mejor colocación del inventario y más unidades por paquete y, como resultado, menores costos de entrega. Más allá del T1, tenemos una serie de iniciativas en marcha para continuar mejorando nuestra estructura de costos, como ajustar nuestra red de entrada, construir nuestros sitios de entrega el mismo día, expandir nuestra red de entrega rural y agregar robótica y automatización a nuestras instalaciones. Una mejor colocación del inventario sigue siendo una prioridad principal. Una mejor colocación impulsa una mayor selección en stock, reduce las distancias de viaje y acelera la entrega. Y tener el inventario en el lugar correcto en el momento adecuado aumenta la probabilidad de que se puedan combinar varios artículos en un paquete, lo que ayuda a reducir el embalaje y el costo. Aunque el progreso no siempre será lineal, tenemos un buen plan para continuar impulsando la mejora con el tiempo.
+
+Pasando a la publicidad. La publicidad sigue siendo un importante contribuyente a la rentabilidad en los segmentos de América del Norte e internacional. Los ingresos por publicidad crecieron un 19% interanual. Estamos satisfechos con la aceleración del crecimiento sobre una base cada vez más grande. Estamos viendo una fuerte adopción en nuestra oferta publicitaria de embudo completo a medida que las marcas aprecian nuestra capacidad para conectarlas con los clientes. También continuaremos invirtiendo en otras oportunidades a largo plazo. Estos esfuerzos tienen el potencial de ser importantes para los clientes y Amazon en el futuro, incluido Kuiper, donde tuvimos nuestro primer lanzamiento de nuestros satélites de diseño de producción a principios de esta semana, y lanzaremos más satélites durante todo el año.
+
+Estamos monitoreando de cerca el entorno macroeconómico, incluido el impacto de los aranceles. Estamos planificando varios resultados y hemos tomado una serie de medidas para proteger la experiencia del cliente. Estamos haciendo todo lo posible para mantener nuestros precios bajos para los clientes de una manera que tenga sentido económico.
+
+Pasando ahora a nuestro segmento AWS. Los ingresos fueron de $29.3 mil millones en el T1, un aumento del 17% interanual. AWS ahora tiene una tasa de ejecución anualizada de ingresos de más de $117 mil millones. Durante el primer trimestre, continuamos viendo crecimiento tanto en el negocio de IA generativa como en las ofertas de IA no generativa a medida que las empresas centran su atención en iniciativas más nuevas, llevan más cargas de trabajo a la nube, reinician o aceleran las migraciones existentes desde las instalaciones a la nube y aprovechan el poder de la IA Generativa.
+
+El ingreso operativo de AWS fue de $11.5 mil millones y refleja nuestro crecimiento continuo junto con nuestro enfoque en impulsar eficiencias en todo el negocio. Como dijimos antes, esperamos que los márgenes operativos de AWS fluctúen con el tiempo, impulsados en parte por el nivel de inversiones que estamos haciendo en un momento dado. Planeamos incorporar una cantidad creciente de capacidad en la segunda mitad del año.
+
+Ahora, pasando a nuestro CapEx en efectivo, que fue de $24.3 mil millones en el T1. La mayor parte de este gasto es para respaldar la creciente necesidad de infraestructura tecnológica. Se relaciona principalmente con AWS a medida que invertimos para respaldar la demanda de nuestros servicios de IA y cada vez más en silicio personalizado como Trainium, así como en infraestructura tecnológica para respaldar nuestros segmentos de América del Norte e Internacional. También estamos invirtiendo en nuestra red de cumplimiento y transporte para respaldar el crecimiento futuro y mejorar las velocidades de entrega y nuestra estructura de costos. Esta inversión respaldará el crecimiento durante muchos años.
+
+Si bien centramos principalmente nuestros comentarios en el ingreso operativo, me gustaría señalar que nuestro ingreso neto del primer trimestre de $17.1 mil millones incluye una ganancia antes de impuestos de $3.3 mil millones incluida en los ingresos no operativos y se relaciona con nuestra inversión en Anthropic. Esta actividad no está relacionada con las operaciones en curso de Amazon, sino que es el resultado de la conversión de una parte de nuestras notas convertibles en acciones preferentes sin derecho a voto.
+
+Pasando a la guía del T2. Como recordatorio, nuestra guía considera un rango de posibilidades y tiene en cuenta los resultados del T1, las tendencias en los resultados del trimestre hasta la fecha y las expectativas sobre el entorno macroeconómico. Se espera que las ventas netas del T2 estén entre $159 mil millones y $164 mil millones. Estimamos que el impacto interanual de los cambios en los tipos de cambio basados en las tasas actuales será un viento en contra de aproximadamente 10 puntos básicos en el trimestre. Como recordatorio, las monedas globales pueden fluctuar durante el trimestre. Se espera que el ingreso operativo del T2 esté entre $13 mil millones y $17.5 mil millones. Esta estimación incluye el impacto de nuestro aumento estacional en el gasto de compensación basado en acciones en el T2, impulsado por el momento de nuestro ciclo anual de compensación.
+
+El entorno externo sigue siendo complejo. Y como hemos hecho a lo largo de nuestra historia, nos centramos en los insumos que podemos controlar para proteger la experiencia del cliente. Trabajaremos arduamente para seguir siendo el lugar en el que los clientes confían por precios ajustados, amplia selección y conveniencia. Seguiremos centrados en impulsar una mejor experiencia del cliente, y todavía creemos que poner a los clientes primero es la única forma confiable de crear valor duradero para nuestros accionistas.
+
+Con eso, pasemos a sus preguntas.
+
+**Operador**
+
+[Instrucciones del Operador] Y la primera pregunta viene de la línea de Ross Sandler con Barclays.
+
+**Ross Sandler**
+
+Genial. Creo que voy a dejar las preguntas sobre China para otros y me centraré en AWS y algo de IA. Entonces, Andy, parece que has estado incorporando muchas más instancias P5 GPU desde febrero, por lo que parece, para respaldar todas estas nuevas cargas de trabajo de IA. Entonces, ¿cómo caracterizarías en el primer trimestre y quizás aquí en el segundo trimestre, el tipo de desequilibrio entre oferta y demanda del que hablaste antes en torno a las cargas de trabajo de IA? ¿Y cuándo crees que AWS estará en condiciones de capturar suficientes ingresos de IA para impulsar la aceleración? ¿Es eso algo que podría suceder este año? ¿O lo ves más como el próximo año dadas tus limitaciones de capacidad?
+
+**Andrew Jassy**
+
+Gracias, Ross. Diría que hemos estado incorporando muchas P5, que es una forma de instancias de chip NVIDIA, así como aterrizando más y más instancias Trainium2 tan rápido como podemos. Y te diría que nuestro negocio de IA en este momento es un negocio con una tasa de ejecución anual de miles de millones de dólares que está creciendo en porcentajes de tres dígitos interanuales. Y nosotros... tan rápido como realmente ponemos la capacidad, se está consumiendo. Así que creo que podríamos estar impulsando... podríamos estar ayudando a más clientes a generar más ingresos para el negocio si tuviéramos más capacidad. Tenemos muchas más instancias Trainium2 y la próxima generación de instancias de NVIDIA aterrizando en los próximos meses.
+
+Espero que haya otras partes de la cadena de suministro que estén un poco atascadas también, placas base y algunos otros componentes. Pero yo... y parte de eso es solo porque hay tanta demanda en este momento. Pero sí creo que los problemas de la cadena de suministro y los problemas de capacidad continuarán mejorando a medida que avance el año.
+
+**Operador**
+
+Y la siguiente pregunta viene de la línea de Eric Sheridan con Goldman Sachs.
+
+**Eric Sheridan**
+
+Quizás podría hacer una pregunta de dos partes. Primero, en términos de estrategia, Andy, ¿cómo piensas sobre el posicionamiento de la empresa a mediano plazo, dados todos los niveles de incertidumbre que existen sobre cómo podría cambiar el entorno comercial global en los próximos meses? ¿Cuáles consideras que son las prioridades estratégicas clave que permitirán a la empresa capitalizar de una forma u otra dependiendo de varios elementos del resultado? ¿Y cómo priorizas esas inversiones en los próximos meses?
+
+Y luego, con respecto a la guía de ingresos operativos a un trimestre, ¿hay algo allí desde el lado de los costos en lo que deberíamos pensar como puramente alineado con esos tipos de inversiones frente al panorama comercial que podría no repetirse más adelante este año o el próximo?
+
+**Andrew Jassy**
+
+Gracias, Eric. Es difícil decir qué va a pasar con los aranceles en este momento. Es difícil decir dónde se van a asentar y cuándo se van a asentar. Y gran parte de lo que estamos pensando a corto y mediano plazo, en realidad resulta ser lo que pensamos a largo plazo también, que es cómo tenemos realmente la selección más amplia posible para los clientes a los precios más bajos posibles, y quizás nunca ha habido un momento más importante en la memoria reciente que tratar de mantener los precios bajos, en lo que estamos enfocados con la cabeza gacha, de manera bastante maníaca, y luego llevar las cosas a la gente rápidamente y cuidar a los clientes. Y ese es el corazón de lo que estamos haciendo.
+
+Y puedes ver diferentes iniciativas que hemos tomado dentro de esas prioridades. Hemos hecho algunas compras anticipadas de inventario donde somos el vendedor de primera parte. Nuestros vendedores de terceros han adelantado una serie de artículos, por lo que también tienen inventario aquí. Y todo eso lo estamos fomentando porque estamos tratando de mantener los precios lo más bajos posible para los clientes.
+
+Creo que también cuando tienes una selección tan amplia como la que tenemos, y tenemos una selección mucho más amplia que otros minoristas, significa que cuando tienes esta continuidad como la que potencialmente podríamos tener, estás en mejores condiciones de ayudar a los clientes a encontrar lo que quieren, sin importar cuáles sean esas tendencias. Y mencioné en mis comentarios iniciales sobre lo que sucedió en la pandemia. Y puedes apostar que habrá cosas que no anticipamos que los clientes realmente valoren y quieran que sean diferentes. Podría ser tan simple, por cierto, como simplemente favorecer otras marcas que quizás la gente no conocía antes, pero donde tienen una ecuación de precios más favorable para los clientes.
+
+Y creo que cuando también tienes... otra cosa que la gente olvida es que cuando tienes más de 2 millones de vendedores, no todos van a tomar la misma estrategia si terminan habiendo aranceles más altos. Quiero decir, habrá muchos vendedores que decidan trasladar esos costos más altos a los consumidores finales, pero van a... tenemos muchos vendedores en muchos países diferentes y no todos van a seguir el mismo camino. Y entonces creo que cuando tienes una mayor diversidad como la que tenemos, tenemos una mejor oportunidad de que algunos de esos vendedores decidan que van a capturar participación, y no van a trasladar todos o ninguno de esos aranceles a los clientes. Y entonces creo que los clientes van a tener una mejor oportunidad de encontrar variedad en la selección y precios más bajos cuando vengan aquí.
+
+Y lo último que diría es que, hemos estado en varios de nuestros negocios, pero solo diría, durante los últimos 6 años más o menos, hemos estado diversificando dónde producimos las cosas durante un largo período de tiempo. Teníamos, diría, una concentración significativamente mayor de dónde producimos componentes para AWS o dispositivos en China de la que tenemos ahora, donde nos hemos diversificado significativamente durante ese tiempo. Y simplemente pensamos que era prudente hacerlo. Y esas son algunas de las formas en que estamos tratando de asegurarnos de que estamos protegiendo a nuestros clientes a corto, mediano y largo plazo. Pero resulta que la mayoría de esas son las cosas en las que más nos enfocamos, que es realmente una amplia selección para la elección final, precios realmente bajos y entrega muy rápida.
+
+**Brian Olsavsky**
+
+Eric, tomaré tu pregunta sobre la guía y especialmente sobre el ingreso operativo, creo que esa fue tu pregunta y el costo que podría haber en el T2. Lo que señalaría, nuevamente, es lo que mencioné antes, la compensación basada en acciones siempre aumenta generalmente en el T2 en comparación con el T1 y luego restablece la tasa que se mantiene durante los próximos 4 trimestres. Puedes observar las tendencias históricas para tener una idea de eso.
+
+En segundo lugar, tenemos algunos costos adicionales de lanzamiento de Kuiper en el T2. Viste un lanzamiento esta semana. Y un recordatorio de que gastamos esos costos de lanzamiento hasta el punto de comercialización, cuyo plan es tenerlo más adelante este año.
+
+**Operador**
+
+Y la siguiente pregunta viene de la línea de Justin Post con Bank of America.
+
+**Justin Post**
+
+Volveré a AWS. Sé que en el pasado dijiste que los ingresos pueden ser irregulares. ¿Puedes explicar por qué eso podría fluctuar hacia arriba y hacia abajo si va más allá de la capacidad? Y ves a los competidores con tasas de crecimiento bastante buenas. ¿Cómo piensas sobre la diferencia allí? Obviamente, tu crecimiento en dólares es muy bueno. Pero, ¿cómo piensas sobre la diferencia allí en comparación con algunos de tus competidores?
+
+**Andrew Jassy**
+
+Bueno, lo primero que diría es que cuando históricamente hemos dicho que los ingresos podrían ser irregulares, esto fue... hemos estado diciendo esto mucho antes de lo que sucedió con la IA en los últimos años. Y la razón de eso es el ciclo de ventas para... particularmente para empresas. Es cierto para las startups. Lo que realmente quieres es tener el tipo de capacidades donde las startups quieran elegir principalmente ejecutar sobre tu plataforma. Y eso es cierto. Si miras el espacio de las startups, la gran mayoría de las startups exitosas de los últimos 10 a 15 años se han ejecutado sobre AWS. Y es impredecible cuándo esas startups van a encontrar el ajuste producto-mercado y crecer sustancialmente. Y es difícil para ellos predecir e incluso más difícil para nosotros predecir.
+
+Y lo mismo ocurre en el lado empresarial, cuando tú... pero de una manera diferente, cuando el ciclo de ventas en el lado empresarial es que pasaste tiempo tratando de convencer a la gente de que deberían pasar de las instalaciones locales a la nube y luego de que tienes la solución adecuada para ellos y luego eliges un conjunto de proyectos en los que obtienes experiencia. Y a veces usan integradores de sistemas, a veces usan nuestros propios servicios profesionales, a veces lo hacen ellos mismos. Luego viene el siguiente tramo de migraciones. Y esas migraciones simplemente llevan tiempo. Y algunas empresas las superan muy rápidamente y otras tardan más en superarlas. Y lo que sucede muchas veces también es que se entusiasman y se entusiasman con las ventajas de costos y las ventajas de velocidad de innovación que obtienen al pasar a la nube. Y lo que se suponía que era un siguiente tramo más pequeño, se convierte en un siguiente tramo mucho más grande.
+
+Y todo eso ha sido cierto durante mucho tiempo. Es muy difícil para nosotros predecir porque realmente depende de lo que las empresas... cómo quieren secuenciarlo y asignarle recursos. Luego agregas la IA, que tiene su propio ciclo de crecimiento muy rápido, particularmente en ciertos casos de uso y esos cambian. Quiero decir, te daré solo algunos ejemplos. En los primeros días de... los primeros días, debería decir, de la IA, lo que más has visto han sido iniciativas que te brindan productividad y evitación de costos. Y hemos visto eso de muchos de nuestros clientes de AWS, y estamos haciendo mucho de eso nosotros mismos dentro de Amazon usando IA.
+
+Y luego también has visto, diría, entrenamiento a gran escala con muchos de ellos ejecutándose sobre esto también. Y como sabes, Anthropic está ejecutando... construyendo los próximos modelos de entrenamiento sobre nuestro chip Trainium2 en AWS. Y luego has visto un par de chatbots realmente grandes. Y luego lo que has visto en los últimos meses es realmente una especie de explosión de agentes de codificación. Y si solo miras el crecimiento de estos agentes de codificación en los últimos meses, estas son empresas como Cursor o Vercel, ambas se ejecutan significativamente en AWS. Pero solo mira el crecimiento de eso en los últimos meses, simplemente no podrías haber predicho ese tipo de crecimiento. Y por eso es irregular. A veces tendrás aumentos muy significativos que no predijiste y no pudiste pronosticar. Y luego crecerán a buen ritmo, pero quizás no al mismo ritmo antes del próximo gran tipo de crecimiento explosivo.
+
+Y te diría que todo lo que acabo de mencionar, lo interesante de la IA es que todavía no hemos llegado a todas las demás experiencias de cliente que se van a reinventar y todos los demás agentes que se van a construir. Van a asumir el papel de muchas funciones diferentes hoy. Y esas son... incluso aunque tenemos mucha inferencia combinada en esas áreas, diría que ni siquiera estamos en el segundo strike del primer bateador en la primera entrada. Es tan temprano en este momento.
+
+Y luego solo diría sobre el... cómo pensar en las tasas de crecimiento relativas, siempre tienes que... la tasa de crecimiento interanual es realmente solo una función del crecimiento porcentual sobre la base desde la que estabas operando. Y simplemente tenemos una base significativamente más grande en el lado de la infraestructura tecnológica que otros. Y así sigue siendo... si piensas en un crecimiento interanual del 17% sobre una tasa de ejecución de ingresos de $117 mil millones, sigue siendo un crecimiento bastante significativo. Y como dije, creo que podríamos estar haciendo más si tuviéramos más capacidad, y espero que la capacidad disminuya en los próximos meses.
+
+**Operador**
+
+Nuestra siguiente pregunta viene de la línea de Doug Anmuth con JPMorgan.
+
+**Douglas Anmuth**
+
+Una para Brian, una para Andy. Brian, solo para seguir con AWS, pero más en el lado del margen. Hemos visto mucha fluctuación en los últimos años y ahora estamos llegando a casi el 40%. Tal vez puedas hablar sobre qué está impulsando el rendimiento superior y luego cómo deberíamos pensar en los márgenes normalizados en el futuro. Y luego, Andy, tus comentarios sobre Alexa acerca de pasar a tareas más complejas. ¿Puedes hablar más sobre eso? Y solo con Alexa, los productos han existido durante mucho tiempo y han tenido diferentes casos de uso. ¿Cómo logras que los usuarios cambien su comportamiento más con Alexa?
+
+**Brian Olsavsky**
+
+Doug, tomaré tu primera pregunta. Sí, tuvimos un trimestre sólido en AWS, como mencionaste, el rendimiento del margen. Lo atribuiría al fuerte crecimiento que estamos viendo, junto con el impacto de algunas inversiones continuas que estamos haciendo en innovación y tecnología. Te daré algunos ejemplos. Invertimos en software y mejoras de procesos y terminamos optimizando nuestra capacidad de servidor, lo que ayuda a nuestro costo de infraestructura. Hemos estado desarrollando una red más eficiente utilizando nuestro equipo de red personalizado de bajo costo. Estamos trabajando para maximizar el uso de energía en nuestros centros de datos existentes, lo que reduce nuestros costos y también recupera energía para otras cargas de trabajo más nuevas.
+
+Y también estamos viendo el impacto del avance del silicio personalizado como Graviton. Proporciona un costo más bajo no solo para nosotros, sino también para nuestros clientes, un mejor rendimiento de precios para ellos. Pero tienes razón, los márgenes se ven afectados por muchas cosas, incluido nuestro nivel de inversión, precios competitivos, la combinación de servicios de IA generativa a medida que aumentan continuará evolucionando en los próximos años. Así que tenemos mucha inversión en infraestructura en curso y planificada para la segunda mitad del año. Así que eso... comenzaremos a ver el impacto de eso. Pero estamos contentos con el rendimiento del equipo que está generando ahorros de costos. Y es un gran enfoque, así como la expansión de los servicios y características para los clientes.
+
+**Andrew Jassy**
+
+Sobre la pregunta de Alexa, estamos realmente emocionados con Alexa+. Y como mencioné antes, es... ella es mucho más inteligente, mucho más capaz y puede tomar acciones reales. Y hasta la fecha, la mayoría de los agentes que han existido realmente solo han podido responder preguntas, lo que cuando salió fue muy notable. Pero es... creo que el futuro de los agentes no es solo ser inteligente, sino también poder tomar acciones. Y eso en realidad... requiere un gran modelo, pero también requiere la capacidad de sincronizar ese modelo y alinear ese modelo con la capacidad de tomar la acción correcta y ejecutar e implementar las API correctas o puedes tener resultados muy subóptimos.
+
+Así que hemos trabajado duro en eso en Alexa+. Hemos estado... comenzamos a implementarlo en las últimas semanas. Ahora está con más de 100,000 usuarios y se implementarán más en los próximos meses. Y hasta ahora, la respuesta de nuestros clientes ha sido muy, muy positiva. La gente está emocionada al respecto. Creo que hace muchas más cosas de las que hacía Alexa antes. Y somos muy afortunados de tener más de 0.5 mil millones de dispositivos en los hogares, oficinas y automóviles de las personas.
+
+Así que ya tenemos mucha distribución. Pero habrá... hasta cierto punto, habrá un poco de reconfiguración para las personas sobre lo que pueden hacer porque te acostumbras a los patrones. Quiero decir, incluso la simple cosa de no tener que decir, Alexa habla más, todos estamos acostumbrados a decir, Alexa, antes de que queramos que suceda cada acción. Y lo que encuentras es que realmente no tienes que hacerlo la primera vez, y luego realmente la conversación está en curso donde ya no tienes que decir Alexa. Y he tenido la suerte de tener la alfa y la beta con las que he estado jugando durante varios meses, y me tomó un poco de tiempo darme cuenta de que no tenían que seguir diciendo Alexa, es muy liberador cuando no tienes que hacer eso.
+
+Y luego creo que es solo experiencia probando cosas. Así que puedes hacer cosas como tener invitados que vienen un sábado por la noche a cenar, y puedes decir, Alexa, por favor abre las persianas, enciende las luces en la entrada y en el porche, aumenta la temperatura 5 grados y elige música que sería genial para una cena que sea suave. Y ella simplemente lo hace. Y como cuando tienes ese tipo de experiencias, te dan ganas de hacer más.
+
+Cuando estaba en Nueva York, cuando estábamos anunciando, le pregunté cuáles eran los... hicimos el evento muy al centro. Le pregunté cuáles eran excelentes restaurantes italianos o pizzerías, me dio una lista y me preguntó si quería que hiciera una reserva. Dije que sí. E hizo la reserva y confirmó la hora, así. Cuando entras en ese tipo de rutinas y tienes ese tipo de experiencias, son muy, muy útiles. Realmente es como tener un gran asistente personal, que la mayoría de la gente en el mundo no tiene. Y creo que cuanto más y más la gente se acostumbre, se darán cuenta de lo que puede hacer. Y no nos vamos a quedar quietos. Tenemos mucha más funcionalidad que planeamos agregar en los próximos meses también.
+
+**Operador**
+
+Nuestra siguiente pregunta viene de la línea de Brian Nowak con Morgan Stanley.
+
+**Brian Nowak**
+
+Tengo una para cada uno de ustedes. Andy, tienes un negocio minorista muy complicado con muchas piezas móviles. Imagino que tienes muchos buenos datos sobre lo que esperas que sea la demanda a lo largo del año y las festividades y esas cosas. Mientras das un paso atrás y analizas el negocio y la incertidumbre arancelaria, ¿podrías explicarnos las 1 o 2 áreas clave operativas en las que estás más enfocado, solo para asegurar que el Prime Day, Acción de Gracias y las festividades transcurran lo más fluidamente posible?
+
+Y luego, en segundo lugar, Brian, solo para volver a la pregunta anterior de Eric, mientras pensamos en la guía de EBIT del segundo trimestre, ¿hay algún costo único o costos relacionados con aranceles allí similares a los $1 mil millones que mencionaste en el primer trimestre?
+
+**Andrew Jassy**
+
+En la... gracias, Brian. En la pregunta minorista, diría que las áreas en las que quizás estamos más enfocados para asegurarnos de que no solo tengamos un gran Prime Day, sino que Prime Day es solo un evento como sabes y también lo es Peak. Estamos tratando de ser geniales todo el año para los clientes. Las obvias son asegurarnos de ayudar a nuestros vendedores como podamos porque también hay incertidumbre para nuestros vendedores. Y estamos tratando de asegurarnos de brindar una gran experiencia. Estamos tratando de asegurarnos de tener la diversidad correcta de vendedores y precios bajos para nuestros clientes.
+
+Creo que todo eso, también tienes que ser muy reflexivo sobre cuánto inventario traes a tus nodos de cumplimiento en un momento dado porque puedes imaginar escenarios en los que, ya sea por tu cuenta cuando eres el vendedor de primera parte o muchos terceros quieren obtener tanto inventario y lo antes posible, tratando de superar una fecha límite sobre lo que pueda suceder. Y si terminas con demasiado inventario en tu red de cumplimiento, realmente ralentiza tu productividad y tu capacidad para sacar las cosas tan rápido como quieres para los clientes con la estructura de costos que deseas. Así que poder manejar eso reflexivamente, hemos aprendido eso a lo largo de los años, y creo que el equipo está haciendo un muy buen trabajo equilibrando eso en este momento.
+
+**Brian Olsavsky**
+
+Y Brian, sobre tu pregunta sobre el T2, supongo que simplemente reiteraría lo que dije antes. Tuvimos un aumento en la compensación basada en acciones que creo que puedes ver el patrón normal para eso, si miras nuestra historia. Tenemos gastos adicionales de Kuiper. Específicamente, preguntaste sobre aranceles. Tenemos aranceles que pagaremos en compras minoristas basados en los aranceles actuales. No es grande en el T2. Habíamos hecho muchas compras anticipadas de inventario en el T1, como mencioné antes. Pero en general, creo que con la incertidumbre, hemos agregado un poco al rango que te hemos dado. Generalmente tenemos un rango amplio. Pero solo la incertidumbre general que estamos viendo y la incertidumbre de la demanda del consumidor y todo lo demás nos está haciendo aumentar un poco los rangos. Así que ya veremos.
+
+Creemos que es una visión importante del T2 en este momento. Como mencionó Andy antes, vimos cierta fortaleza en abril basada en lo que podrían terminar siendo algunas compras anticipadas de varias cosas, pero... y la publicidad ha sido fuerte. Así que creemos que hay muchas tendencias positivas, pero ciertamente incertidumbre en este momento para el trimestre.
+
+**Operador**
+
+Y nuestra última pregunta vendrá de la línea de Brent Thill con Jefferies.
+
+**Brent Thill**
+
+En AWS, me pregunto si podrías darnos la cifra del backlog. Y Andy, sobre tu punto acerca de que muchas de estas cargas de trabajo principales aún no han llegado a la nube. ¿Puedes actualizarnos sobre lo que estás viendo? ¿Estás viendo que la fortaleza empresarial regresa? ¿Estás viendo cierta confusión con la IA nublando esa transición y el momento de la misma? Solo danos una perspectiva sobre lo que estás viendo en esa migración.
+
+**Dave Fildes**
+
+Soy Dave. Intervendré sobre el backlog y luego se lo pasaré a Andy. El backlog es de $189 mil millones para el T1, eso es un aumento de aproximadamente el 20% interanual. Y la vida útil restante ponderada promedio es de 4.1 años.
+
+**Andrew Jassy**
+
+Sobre la pregunta de AWS, Brent, en torno a lo que estamos viendo en las cargas de trabajo que no se han movido. Lo que diría... la forma en que lo caracterizaría es que estábamos en una marcha muy agresiva que era metódica, pero casi metronómica antes de la pandemia, de empresas que decidían que querían abandonar su infraestructura local debido a la velocidad de la innovación, la productividad de los desarrolladores y las ventajas de costos de la nube. Y luego, cuando entraste en la pandemia y la economía parecía incierta en la segunda mitad de esos pocos años, tenías a todos tratando de optimizar costos, incluyéndonos a nosotros, por cierto. Y luego, cuando comenzamos a emerger de esa tendencia, viste explotar la IA generativa y todos querían encontrar una manera de tener una carga de trabajo o un conjunto de cargas de trabajo allí porque la gente vio el potencial, y también era algo que estaba generando mucho interés públicamente.
+
+Y lo que hemos visto ahora en los últimos, digamos 16 a 18 meses más o menos, es que las empresas se dan cuenta de que necesitan hacer ambas cosas. Y quieren hacer IA. Tienen todo tipo de pilotos en este punto sobre IA, muchos de los cuales tendrán éxito, otros no. Los que tengan éxito escalarán. Pero también tienen muchas más iniciativas a las que no... a las que todavía no han llegado en el lado de la IA, ya sea porque están desarrollando ese conjunto de habilidades o están eligiendo el primer conjunto para obtener experiencia o mientras esperan ver que el costo de la inferencia continúe bajando, lo cual sucederá.
+
+Quiero decir, no obtendrás la expansividad que todos sabemos que viene en IA hasta que sigamos bajando el costo de la inferencia, aunque esté creciendo como loco en este momento. Pero al mismo tiempo, diría que vemos un resurgimiento y una comprensión crecientes por parte de las empresas de que están dejando pasar la fruta madura si no trasladan su infraestructura a la nube, simplemente... por todas las razones que mencioné antes. Así que estás empezando a ver que esos planes se retoman de nuevo.
+
+Como mencioné antes, a una de las preguntas. No decides que vas a transformar tu infraestructura de las instalaciones locales a la nube y ver que suceda en 3 meses. Eso es típicamente un proceso de varios años que algunas empresas hacen rápido, otras lo hacen más lento, pero lo hacen en tramos y lo hacen reflexivamente porque no pueden permitirse que sus aplicaciones no funcionen mientras hacen su transición. Y estamos teniendo un éxito significativo en esas conversaciones y en las empresas que eligen transformar su infraestructura sobre AWS. Y creo que verás que eso también avanza.
+
+**Dave Fildes**
+
+Gracias por su tiempo al unirse a nosotros hoy y por sus preguntas. Una repetición estará disponible en nuestro sitio web de Relaciones con Inversores durante al menos 3 meses. Apreciamos su interés en Amazon y esperamos volver a hablar con ustedes el próximo trimestre.
+
+**Operador**
+
+Y damas y caballeros, eso concluye la teleconferencia de hoy. Pueden desconectar sus líneas en este momento. Gracias por su participación.
